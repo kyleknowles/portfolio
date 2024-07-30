@@ -2,6 +2,6 @@
 
 Projects: 
 
-Financial Tools-
-Animal-le-
+Financial Tools-   
+Animal-le-  
 Wordle Helper- 
